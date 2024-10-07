@@ -100,10 +100,10 @@ console.log (f / e) // Salida 5.5
 
 //Escribe tu código aquí
 
-let variablea = 1;
-let variableb = 2;
-let comparison = variable1 = variable2;
-console.log (comparision);
+let variable10 = 1;
+let variable20 = 2;
+let comparison = variable10 == variable20;
+console.log (comparison);
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
@@ -111,7 +111,7 @@ console.log (comparision);
 
 let variable1 = 1;
 let variable2 = 2;
-let resultado2 = variable1 < variable2;
+let resultado = variable1 < variable2;
 console.log(resultado); // True
 
 
